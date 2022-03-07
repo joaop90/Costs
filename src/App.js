@@ -23,6 +23,7 @@ function App() {
           <Route exact path="/newproject" element={<NewProject />}></Route>
           </Routes>
         </Container>
+
       <Footer />
     </Router>
   );
